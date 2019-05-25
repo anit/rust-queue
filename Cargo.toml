@@ -1,0 +1,7 @@
+[package]
+name = "rust-queue"
+version = "0.1.0"
+authors = ["Anit Rai <anit.rai@cyphertree.com>"]
+edition = "2018"
+
+[dependencies]
