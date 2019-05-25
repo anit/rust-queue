@@ -5,3 +5,5 @@ authors = ["Anit Rai <anit.rai@cyphertree.com>"]
 edition = "2018"
 
 [dependencies]
+actix = "0.7"
+actix-web = "1.0.0-rc"
