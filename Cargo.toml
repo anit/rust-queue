@@ -8,3 +8,6 @@ edition = "2018"
 actix = "0.7"
 actix-web = "1.0.0-rc"
 listenfd = "0.3"
+
+amiquip = "0.2"
+
